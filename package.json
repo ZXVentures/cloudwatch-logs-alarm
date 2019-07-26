@@ -1,0 +1,23 @@
+{
+  "name": "cloudwatch-logs-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betaacid/cloudwatch-logs-alarm.git"
+  },
+  "author": "Ryan Vanderpol <ryan@betaacid.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/betaacid/cloudwatch-logs-alarm/issues"
+  },
+  "homepage": "https://github.com/betaacid/cloudwatch-logs-alarm#readme",
+  "dependencies": {
+    "aws-sdk": "^2.500.0",
+    "dotenv": "^8.0.0"
+  }
+}
