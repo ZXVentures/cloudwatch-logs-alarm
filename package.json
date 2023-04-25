@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/betaacid/cloudwatch-logs-alarm#readme",
   "dependencies": {
-    "aws-sdk": "^2.500.0",
+    "aws-sdk": "^2.1354.0",
     "dotenv": "^8.0.0"
   }
 }
